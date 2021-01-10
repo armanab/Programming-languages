@@ -1,8 +1,11 @@
+
 # Programming-languages
 
-How many of these programming languages do you know?
-Which languages do you think we need to learn?
-How many years do you think we should spend to learn this?
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+   - How many of these programming languages do you know?
+   - Which languages do you think we need to learn?
+   - How many years do you think we should spend to learn this?
 
  - [ActionScript](https://helpx.adobe.com/air/archived-docs-download.html)
    - [Ada](https://www.adaic.org/)
